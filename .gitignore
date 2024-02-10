@@ -94,4 +94,8 @@ ENV/
 *.sublime-workspace
 
 # VSCode
+<<<<<<< HEAD
 .vscode/
+=======
+.vscode/
+>>>>>>> feature
